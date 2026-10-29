@@ -1,0 +1,11 @@
+# Temporales y logs
+*.log
+*.tmp
+
+# Secretos
+.env
+
+# Archivos que crea el sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
